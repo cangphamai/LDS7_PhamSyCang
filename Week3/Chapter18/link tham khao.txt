@@ -1,0 +1,16 @@
+https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/glm
+
+https://www.r-bloggers.com/2018/04/how-do-i-interpret-the-aic/
+
+https://dataaspirant.com/how-decision-tree-algorithm-works/
+
+https://www.gormanalysis.com/blog/decision-trees-in-r-using-rpart/
+
+https://www.statmethods.net/advstats/cart.html
+
+https://www.rdocumentation.org/packages/rpart.plot/versions/3.0.8/topics/prp
+
+http://oldemarrodriguez.com/yahoo_site_admin/assets/docs/Ploting_a_Tree_with_prp.234140400.pdf
+
+https://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart
+
